@@ -1,0 +1,14 @@
+# theme.py
+
+BACKGROUND = "#081C24"
+
+BLUE = "#16697A"
+LIGHT_BLUE = "#75B9D6"
+
+GREEN = "#2A9D8F"
+MINT = "#54D6C0"
+
+TEXT = "#D8F3F0"
+
+ERROR = "#FF8FA3"
+WHITE = "#FFFFFF"
